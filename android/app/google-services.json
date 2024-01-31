@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322938904388",
+    "firebase_url": "https://sigma-8207c.firebaseio.com",
+    "project_id": "sigma-8207c",
+    "storage_bucket": "sigma-8207c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322938904388:android:c7bffc8118334246418111",
+        "android_client_info": {
+          "package_name": "com.threesigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322938904388-mt8iupmrn5t5n6o4qcalb9v7eqchde74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threesigma",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "322938904388-p7l4fso2n9g93n8irg3c9get69rn3vk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGq5ZMwPrU2LlcFftQ9mNtLTVPsndh-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322938904388-p7l4fso2n9g93n8irg3c9get69rn3vk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322938904388-v7gcvl3d46ilpu8ahic2hv6r8cilqeb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.threesigma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

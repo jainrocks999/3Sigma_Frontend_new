@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.333" height="12" viewBox="0 0 9.333 12">
+    <defs>
+        <style>.a{fill:currentColor;}</style>
+    </defs>
+    <path class="a" d="M9,15.667A1.337,1.337,0,0,0,10.333,17h5.333A1.337,1.337,0,0,0,17,15.667v-8H9Zm8.667-10H15.333L14.667,5H11.333l-.667.667H8.333V7h9.333Z" transform="translate(-8.333 -5)"/>
+</svg>

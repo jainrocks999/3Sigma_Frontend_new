@@ -1,0 +1,13 @@
+{
+    "default": {
+      "heapAutoInit": true
+    },
+    "dev": {
+         "heapAutoInit": true,
+         "heapAppId": "1504074274"
+     },
+     "prod": {
+         "heapAppId": "2553329793",
+         "heapAutoInit": true
+     }
+  }
