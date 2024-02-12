@@ -42,3 +42,4 @@ export const PAYMENT_PROVIDER = PaymentProviderEnum.STRIPE;
 export const RAZORPAR_KEY = 'rzp_live_79BbGioQJ3aC3K';
 export const APP_VERSION = '2.1.31';
 export const APP_VERSION_DATE = '4th Aug 2023';
+export const IAP_KEY = 'de7b8d0d9da6453d8b7d18403ed7ab1e';
